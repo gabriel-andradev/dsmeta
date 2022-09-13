@@ -72,6 +72,10 @@ s .dsmeta-sales-title {
   display: none;
 }
 
+.saleAmount {
+  color: #32cd32f0;
+}
+
 @media (min-width: 576px) {
   .show576 {
     display: table-cell;

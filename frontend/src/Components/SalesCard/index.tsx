@@ -79,7 +79,7 @@ function SalesCard() {
                   <td>{sale.sellerName}</td>
                   <td className="show992">{sale.visited}</td>
                   <td className="show992">{sale.deals}</td>
-                  <td>R$ {sale.amount.toLocaleString()}</td>
+                  <td className="saleAmount">R$ {sale.amount.toLocaleString()}</td>
                   <td>
                     <div className="dsmeta-red-btn-container">
                       <NotificationButton saleId={sale.id} />
