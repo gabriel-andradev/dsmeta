@@ -53,3 +53,5 @@ Pode ser acessado pelo link hospeado no netlify [dsmetavendas.netlify.app](https
 ## Gerenciamento de API
 > - Postman
 > - Insomnia
+
+![dsmetavendas](https://user-images.githubusercontent.com/101130704/190306204-a8bbcbd6-0fac-43a8-a0f6-9d3ba6076cc2.png)
