@@ -47,13 +47,12 @@ Pode ser acessado pelo link hospeado no netlify [dsmetavendas.netlify.app](https
 > - [Security](https://www.upguard.com/blog/cybersecurity-important#:~:text=Cybersecurity%20is%20important%20because%20it,governmental%20and%20industry%20information%20systems.)
 > - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 > - [Twilio (SMS)](https://www.twilio.com/)
-> - Netlify (deploy)CI/CD
-> - [CI/CD](https://pt.wikipedia.org/wiki/CI/CD)- [NetLify](https://www.netlify.com) <a href="">&<a/> [Heroku](https://www.heroku.com)
+> - [CI/CD - ](https://pt.wikipedia.org/wiki/CI/CD)[NetLify](https://www.netlify.com) <a href="">&<a/> [Heroku](https://www.heroku.com)
 ## Gerenciamento de versões e hospedagem
 > - [Git](https://git-scm.com) <a href="">&<a/> [GitHub](https://github.com)
 ## Gerenciamento de API
-> - [Postman]
-> - Insomnia
+> - [Postman](https://www.postman.com)
+> - [Insomnia](https://insomnia.rest/download)
 
 ### [dsmetavendas.netlify.app](https://dsmetavendas.netlify.app)
 ![dsmetavendas](https://user-images.githubusercontent.com/101130704/190306204-a8bbcbd6-0fac-43a8-a0f6-9d3ba6076cc2.png)
