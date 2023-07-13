@@ -1,4 +1,4 @@
-/*package com.devsuperior.dsmeta.services;
+package com.devsuperior.dsmeta.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
@@ -47,4 +47,3 @@ public class SmsService {
 		System.out.println(message.getSid());
 	}
 }
-*/
