@@ -47,9 +47,9 @@ Pode ser acessado pelo link hospeado no netlify [dsmetavendas.netlify.app](https
  - [~Heroku CLI~](https://devcenter.heroku.com/articles/heroku-cli)
  - [Railway](https://docs.railway.app/)
  - [Twilio (SMS)](https://www.twilio.com/)
- - [CI/CD - ](https://pt.wikipedia.org/wiki/CI/CD)[NetLify](https://www.netlify.com) <a href="">&<a/> [Railway]((https://railway.app/)
+ - [CI/CD](https://pt.wikipedia.org/wiki/CI/CD) - [NetLify](https://www.netlify.com) & [Railway](https://railway.app/)
 ## Gerenciamento de versões e hospedagem
- - [Git](https://git-scm.com) <a href="">&<a/> [GitHub](https://github.com)
+ - [Git](https://git-scm.com) & [GitHub](https://github.com)
 ## Gerenciamento de API
  - [Postman](https://www.postman.com)
  - [Insomnia](https://insomnia.rest/download)
