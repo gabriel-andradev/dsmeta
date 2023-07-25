@@ -19,7 +19,7 @@ Pode ser acessado pelo link hospeado no netlify [dsmetavendas.netlify.app](https
 #### Linguagens
  - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  - [TypeScript](https://www.typescriptlang.org)
- - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) <a href="">&<a/> [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+ - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML) & [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 #### Frameworks (biblioteca)
  - [ReactJS](https://reactjs.org)
 ## IDE's
